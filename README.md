@@ -2,6 +2,8 @@
 
 *Projeto disponibilizado pela Data Science Academy - Curso Big Data Analytics com R e Microsoft Azure Machine Learning*
 
+Aplicação -> https://thiagoferreira.shinyapps.io/netflix_app/
+
 ***
 
 ![banner](https://user-images.githubusercontent.com/54869201/160717047-0ab43e1e-e6f5-44c2-b185-a9f5900c6f12.jpg)
