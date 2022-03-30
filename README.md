@@ -16,7 +16,7 @@ Aplicação -> https://thiagoferreira.shinyapps.io/netflix_app/ *(por favor, con
 ## Descrição dos arquivos:
 
 1. **projetoNetflix.R:** Processo de análise, tratamento e limpeza dos dados dos dataset originais.
-1. **app.R:** Montagem e publicação (UI e SERVER) shiny app.
+1. **webAPPNetflix.R:** Montagem e publicação (UI e SERVER) shiny app.
 1. **dataset1.csv:** Resultado da limpeza do Dataset.
 1. **dataset2.csv:** Resultado da limpeza do Dataset.
 1. **dataset3.csv:** Resultado da limpeza do Dataset.
